@@ -21,8 +21,9 @@ An Excel dashboard analyzing 777 purchase orders across 5 suppliers to track cos
 
 ## Tools
 
-Excel · PivotTables · Slicers · KPI Reporting · Data Cleaning
+Excel · PivotTables · Slicers & Timeline · Formulas (IF, OR, IFERROR, AVERAGE, GETPIVOTDATA) · Conditional Formatting · KPI Reporting · Data Cleaning
 
+Calculated columns (lead time, saving per unit, saving %, total cost savings) were built with formulas, and conditional formatting highlights delivery lead times against the 10.8-day average.
 ## Files
 
 - `PROCUREMENT_PERFORMANCE_DASHBOARD.xlsx`: the workbook (open in Excel 2013 or later)
