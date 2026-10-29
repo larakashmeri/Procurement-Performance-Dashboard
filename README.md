@@ -25,7 +25,7 @@ An interactive Excel dashboard that analyzes 777 purchase orders across 5 suppli
 
 ## Key Insights
 
-![Key Insights & Recommendations](key_insight.png)
+![Key Insights & Recommendations](key insight.png)
 
 ### 1. Cost Optimization
 Negotiated prices are lower than list prices across every supplier, an average saving of about 8.0%. Beta Supplies delivers the highest total savings (about 831K), while Alpha Inc delivers the lowest (about 622K). By category, MRO produces the largest savings (about 880K).
@@ -90,7 +90,7 @@ Microsoft Excel · PivotTables & PivotCharts · Slicers & Timelines · Formulas 
 |---|---|
 | `PROCUREMENT_PERFORMANCE_DASHBOARD.xlsx` | The Excel workbook |
 | `main-interface.png` | Dashboard screenshot |
-| `key_insight.png` | Key Insights & Recommendations screenshot |
+| `key insight.png` | Key Insights & Recommendations screenshot |
 
 ## How to Use
 
